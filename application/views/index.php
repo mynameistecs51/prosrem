@@ -20,7 +20,18 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
         <![endif]-->
+<style type="text/css">
+  @font-face {
+      font-family: ACEspressa;
+      src: url('<?php echo base_url();?>/assets/fonts/AC Espressa.ttf');
+    }
 
+  #homeFont{
+    font-family:ACEspressa;
+    font-size: 80pt;
+      font-weight:bold;
+  }
+</style>
 
       </head>
       <body>
@@ -53,7 +64,7 @@
       			<!-- overylay class usage -->
       			<div class="container">
       				<div class="col-md-12 col-sm-12 col-xs-12  text-center">
-      					<h1 style="font-family: AC Espressa;url:<?php echo base_url(); ?>assets/font/AC Espressa.ttf">++ โปรเสริม กดเลย ++</h1>
+      					<div id='homeFont'>++ โปรเสริม กดเลย ++</div>
       				</div>
       				<div class="col-md-4 col-sm-4 col-xs-12  p-cls img-responsive">
       					<img src="assets/img/btn/btn_dtac.png" alt="" >
