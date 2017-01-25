@@ -52,11 +52,11 @@
       		<div class="overlay">
       			<!-- overylay class usage -->
       			<div class="container">
-      				<div class="col-md-12 col-md-12  text-center">
-      				<h1 style="font-family: AC Espressa;url:<?php echo base_url(); ?>assets/font/AC Espressa.ttf">++ โปรเสริม กดเลย ++</h1>
+      				<div class="col-md-12 col-sm-12 col-xs-12  text-center">
+      					<h1 style="font-family: AC Espressa;url:<?php echo base_url(); ?>assets/font/AC Espressa.ttf">++ โปรเสริม กดเลย ++</h1>
       				</div>
       				<div class="col-md-4 col-sm-4 col-xs-12  p-cls img-responsive">
-      					<img src="assets/img/btn/btn_dtac.png" alt="">
+      					<img src="assets/img/btn/btn_dtac.png" alt="" >
       				</div>
       				<div class="col-md-4 col-sm-4 col-xs-12  p-cls img-responsive">
       					<img src="assets/img/btn/btn_dtac.png" alt="">
