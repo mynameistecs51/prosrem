@@ -44,7 +44,7 @@
       					<span class="icon-bar"></span>
       				</button>
       				<a class="navbar-brand" href="#">
-      					<img src="assets/img/vivaldi-logo.png" alt="" class="img-responsive" />
+      					<img src="<?php echo base_url(); ?>assets/img/vivaldi-logo.png" alt="" class="img-responsive" />
       				</a>
       			</div>
       			<div class="navbar-collapse collapse navbar-right scroll-me">
@@ -67,13 +67,13 @@
       					<div id='homeFont'>++ โปรเสริม กดเลย ++</div>
       				</div>
       				<div class="col-md-4 col-sm-4 col-xs-12  p-cls img-responsive">
-      					<img src="assets/img/btn/btn_dtac.png" alt="" >
+      					<img src="<?php echo base_url(); ?>assets/img/btn/btn_dtac.png" alt="" >
       				</div>
       				<div class="col-md-4 col-sm-4 col-xs-12  p-cls img-responsive">
-      					<img src="assets/img/btn/btn_dtac.png" alt="">
+      					<img src="<?php echo base_url(); ?>assets/img/btn/btn_dtac.png" alt="">
       				</div>
       				<div class="col-md-4 col-sm-4 col-xs-12  p-cls img-responsive">
-      					<img src="assets/img/btn/btn_dtac.png" alt="">
+      					<img src="<?php echo base_url(); ?>assets/img/btn/btn_dtac.png" alt="">
       				</div>
       				<div class="col-md-8 col-md-offset-2 text-center">
 
@@ -181,7 +181,7 @@
 
       				<div class="col-md-4 col-sm-4 ">
       					<div class="alert alert-info">
-      						<img src="assets/img/1.jpg" class="img-responsive " alt="" />
+      						<img src="<?php echo base_url(); ?>assets/img/1.jpg" class="img-responsive " alt="" />
 
       						<h3>Project Title Here</h3>
       						<h5><a href="#"><strong>Click Here</strong> </a>to go to the project</h5>
@@ -190,7 +190,7 @@
       				</div>
       				<div class="col-md-4 col-sm-4 ">
       					<div class="alert alert-danger">
-      						<img src="assets/img/2.jpg" class="img-responsive " alt="" />
+      						<img src="<?php echo base_url(); ?>assets/img/2.jpg" class="img-responsive " alt="" />
 
       						<h3>Project Title Here</h3>
       						<h5><a href="#"><strong>Click Here</strong> </a>to go to the project</h5>
@@ -199,7 +199,7 @@
       				</div>
       				<div class="col-md-4 col-sm-4 ">
       					<div class="alert alert-success">
-      						<img src="assets/img/3.jpg" class="img-responsive " alt="" />
+      						<img src="<?php echo base_url(); ?>assets/img/3.jpg" class="img-responsive " alt="" />
 
       						<h3>Project Title Here</h3>
       						<h5><a href="#"><strong>Click Here</strong> </a>to go to the project</h5>
